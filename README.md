@@ -25,7 +25,7 @@ It involves **data cleaning, feature engineering, exploratory data analysis (EDA
 
 ---
 
-## 📊 Model Performance
+##  Model Performance
 **Best Model:** LightGBM  
 | Metric | Score |
 |---------|--------|
@@ -71,4 +71,4 @@ Special thanks to TechCrush for the mentorship, guidance, and resources that mad
 ##  How to Use
 Clone the repository:  
 ```bash
-git clone https://github.com/preditech-ai/predictive-maintenance-system.git
+git clone https://github.com/benmill52/predictive-maintenance-system.git
