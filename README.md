@@ -55,17 +55,17 @@ After optimizing the LightGBM model, performance metrics significantly improved,
 ---
 ##  Conclusion
 
-This project successfully developed a Predictive Maintenance System capable of identifying potential machine failures before they occur.
-The optimized LightGBM model achieved exceptional accuracy and reliability, ensuring that failures can be detected early, reducing downtime and operational costs.
+This project successfully developed a Predictive Maintenance System capable of identifying potential machine failures before they occur.  
+The optimized LightGBM model achieved exceptional accuracy and reliability, ensuring that failures can be detected early, reducing downtime and operational costs.  
 
-By integrating machine learning with real-time monitoring, this system enables industries to transition from reactive to proactive maintenance, improving efficiency, safety, and productivity.
-Deployment with Streamlit makes the model easily accessible for field technicians and engineers.
+By integrating machine learning with real-time monitoring, this system enables industries to transition from reactive to proactive maintenance, improving efficiency, safety, and productivity.  
+Deployment with Streamlit makes the model easily accessible for field technicians and engineers.  
 ---
 
 ##  Acknowledgment
 
-This project was developed by the PrediTech Group as part of the TechCrush Data Science & AI Capstone Program.
-Special thanks to TechCrush for the mentorship, guidance, and resources that made this project possible from concept to final deployment.
+This project was developed by the PrediTech Group as part of the TechCrush Data Science Capstone Program.  
+Special thanks to TechCrush for the mentorship, guidance, and resources that made this project possible from concept to final deployment.  
 ---
 
 ##  How to Use
